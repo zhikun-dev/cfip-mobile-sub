@@ -1,6 +1,3 @@
-# VPS789 CF daily Top20 — China Mobile loss 0%
-# source sample: 2026-07-24 00:00:00; generated: 2026-07-24 13:58 UTC
-# connection address only; preserve your EdgeTunnel domain as SNI/Host.
 baota.us.kg:443#CF-MOBILE-0LOSS-59ms
 www.swowd.com:443#CF-MOBILE-0LOSS-60ms
 chinwa.cf.090227.xyz:443#CF-MOBILE-0LOSS-57ms

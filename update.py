@@ -1,16 +1,10 @@
 #!/usr/bin/env python3
-"""Generate a Cloudflare preferred-domain feed from VPS789's daily Top 20.
-
-Only China Mobile candidates whose measured packet loss is exactly 0% are
-published. The list is intentionally a discovery feed: domains remain domains
-so EdgeTunnel can resolve them at connection time.
-"""
+"""Generate a Cloudflare preferred-domain feed from VPS789's daily Top 20."""
 from __future__ import annotations
 
 import json
 import os
 import tempfile
-from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -28,10 +22,9 @@ def fetch() -> list[dict]:
 
 
 def main() -> None:
-    candidates = fetch()
     selected: list[dict] = []
     seen: set[str] = set()
-    for item in candidates:
+    for item in fetch():
         domain = str(item.get("ip", "")).strip().lower()
         try:
             loss = float(item.get("ydPkgLostRate"))
@@ -40,27 +33,19 @@ def main() -> None:
         if domain and loss == 0 and domain not in seen:
             selected.append(item)
             seen.add(domain)
-
     if not selected:
         raise RuntimeError("zero Mobile-loss candidates is empty; preserving last feed")
 
-    sample_time = str(selected[0].get("createdTime", "unknown"))
-    generated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines = [
-        f"# VPS789 CF daily Top20 — China Mobile loss 0%",
-        f"# source sample: {sample_time}; generated: {generated}",
-        "# connection address only; preserve your EdgeTunnel domain as SNI/Host.",
-    ]
-    for item in selected:
-        domain = str(item["ip"]).strip().lower()
-        latency = item.get("ydLatency", "?")
-        lines.append(f"{domain}:443#CF-MOBILE-0LOSS-{latency}ms")
-    content = "\n".join(lines) + "\n"
-
+    # Keep this file strictly IP/domain:port#label. Some EdgeTunnel aggregators
+    # treat comments and metadata lines as malformed API data.
+    content = "\n".join(
+        f"{str(item['ip']).strip().lower()}:443#CF-MOBILE-0LOSS-{item.get('ydLatency', '?')}ms"
+        for item in selected
+    ) + "\n"
     with tempfile.NamedTemporaryFile("w", encoding="utf-8", delete=False, dir=".") as tmp:
         tmp.write(content)
-        tmp_name = tmp.name
-    os.replace(tmp_name, OUT)
+        temp_name = tmp.name
+    os.replace(temp_name, OUT)
     print(f"published {len(selected)} domains")
 
 
