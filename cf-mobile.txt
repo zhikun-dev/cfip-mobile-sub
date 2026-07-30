@@ -1,6 +1,7 @@
-chinwa.cf.090227.xyz:443#CF-MOBILE-0LOSS-58ms
-cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-41ms
-www.adbcardpay.xyz:443#CF-MOBILE-0LOSS-56ms
-cf.cf.3666888.xyz:443#CF-MOBILE-0LOSS-63ms
-10.cf.3666888.xyz:443#CF-MOBILE-0LOSS-61ms
-yg2.ygkkk.dpdns.org:443#CF-MOBILE-0LOSS-68ms
+172.64.158.41:443#CF-MOBILE-0LOSS-58ms
+104.18.39.150:443#CF-MOBILE-0LOSS-57ms
+7.cf.3666888.xyz:443#CF-MOBILE-0LOSS-65ms
+www.adbcardpay.xyz:443#CF-MOBILE-0LOSS-60ms
+store.ubi.com:443#CF-MOBILE-0LOSS-60ms
+yg1.ygkkk.dpdns.org:443#CF-MOBILE-0LOSS-66ms
+edgeone.gh-proxy.org:443#CF-MOBILE-0LOSS-59ms
