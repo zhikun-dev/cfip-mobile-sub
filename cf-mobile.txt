@@ -1,6 +1,5 @@
-blog.raindew.576555.xyz:443#CF-MOBILE-0LOSS-56ms
-chinwa.cf.090227.xyz:443#CF-MOBILE-0LOSS-55ms
-yx.cf.090227.xyz:443#CF-MOBILE-0LOSS-57ms
-img.856518.xyz:443#CF-MOBILE-0LOSS-52ms
-yg8.ygkkk.dpdns.org:443#CF-MOBILE-0LOSS-58ms
-cf.1o.ee:443#CF-MOBILE-0LOSS-86ms
+336688.chinwa.eu.cc:443#CF-MOBILE-0LOSS-39ms
+www.truepowerofblue.com:443#CF-MOBILE-0LOSS-53ms
+bbs.alipansou.com:443#CF-MOBILE-0LOSS-48ms
+224322.xyz:443#CF-MOBILE-0LOSS-50ms
+uac.cf.3666888.xyz:443#CF-MOBILE-0LOSS-48ms
