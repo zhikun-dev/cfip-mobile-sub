@@ -1,5 +1,4 @@
-336688.chinwa.eu.cc:443#CF-MOBILE-0LOSS-39ms
-www.truepowerofblue.com:443#CF-MOBILE-0LOSS-53ms
-bbs.alipansou.com:443#CF-MOBILE-0LOSS-48ms
-224322.xyz:443#CF-MOBILE-0LOSS-50ms
-uac.cf.3666888.xyz:443#CF-MOBILE-0LOSS-48ms
+anycubic.com:443#CF-MOBILE-0LOSS-31ms
+op.chinwa.eu.cc:443#CF-MOBILE-0LOSS-77ms
+cf.yfjc.sbs:443#CF-MOBILE-0LOSS-71ms
+img.856518.xyz:443#CF-MOBILE-0LOSS-70ms
