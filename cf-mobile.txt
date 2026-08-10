@@ -1,4 +1,1 @@
-anycubic.com:443#CF-MOBILE-0LOSS-31ms
-op.chinwa.eu.cc:443#CF-MOBILE-0LOSS-77ms
-cf.yfjc.sbs:443#CF-MOBILE-0LOSS-71ms
-img.856518.xyz:443#CF-MOBILE-0LOSS-70ms
+www.oopt.eu.cc:443#CF-MOBILE-0LOSS-90ms
