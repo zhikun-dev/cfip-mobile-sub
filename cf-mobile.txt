@@ -1,1 +1,8 @@
-cf.92555.xyz:443#CF-MOBILE-0LOSS-70ms
+auto.dolby.dpdns.org:443#CF-MOBILE-0LOSS-64ms
+c.lma.de5.net:443#CF-MOBILE-0LOSS-61ms
+cf.cooteep.com:443#CF-MOBILE-0LOSS-57ms
+cdn.091224.xyz:443#CF-MOBILE-0LOSS-62ms
+cf.cf.3666888.xyz:443#CF-MOBILE-0LOSS-62ms
+neko.cloudflaree.eu.org:443#CF-MOBILE-0LOSS-65ms
+www.oopt.eu.cc:443#CF-MOBILE-0LOSS-45ms
+www.akasantech.com:443#CF-MOBILE-0LOSS-63ms
