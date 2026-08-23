@@ -1,1 +1,3 @@
-cfsaas.080112.xyz:443#CF-MOBILE-0LOSS-210ms
+g.lma.de5.net:443#CF-MOBILE-0LOSS-73ms
+c.lma.de5.net:443#CF-MOBILE-0LOSS-73ms
+cfsaas.080112.xyz:443#CF-MOBILE-0LOSS-196ms
