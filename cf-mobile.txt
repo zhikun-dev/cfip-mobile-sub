@@ -1,2 +1,1 @@
-neko.cloudd.eu.org:443#CF-MOBILE-0LOSS-195ms
-cf.neko.cloudflaree.eu.org:443#CF-MOBILE-0LOSS-176ms
+neko.cloudflaree.eu.org:443#CF-MOBILE-0LOSS-76ms
