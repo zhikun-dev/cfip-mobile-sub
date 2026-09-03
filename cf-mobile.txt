@@ -1,1 +1,1 @@
-www.carousell.sg:443#CF-MOBILE-0LOSS-73ms
+cf.duun.eu.cc:443#CF-MOBILE-0LOSS-195ms
