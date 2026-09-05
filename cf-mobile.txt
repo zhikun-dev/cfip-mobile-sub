@@ -1,2 +1,1 @@
-stores.staples.com:443#CF-MOBILE-0LOSS-81ms
-c.lma.de5.net:443#CF-MOBILE-0LOSS-99ms
+cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-66ms
