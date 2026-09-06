@@ -1,1 +1,1 @@
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-66ms
+cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-43ms
