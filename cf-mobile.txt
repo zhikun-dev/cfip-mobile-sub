@@ -1,1 +1,6 @@
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-43ms
+stores.staples.com:443#CF-MOBILE-0LOSS-55ms
+cf.92555.xyz:443#CF-MOBILE-0LOSS-62ms
+sanwang.cf.3666888.xyz:443#CF-MOBILE-0LOSS-68ms
+ikankeji.com:443#CF-MOBILE-0LOSS-65ms
+cf.1o.ee:443#CF-MOBILE-0LOSS-73ms
+cf-ip-node.vov.moe:443#CF-MOBILE-0LOSS-66ms
