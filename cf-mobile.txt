@@ -1,4 +1,1 @@
-stores.staples.com:443#CF-MOBILE-0LOSS-72ms
-youxuan.cf.3666888.xyz:443#CF-MOBILE-0LOSS-79ms
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-51ms
-login.rockwellautomation.com:443#CF-MOBILE-0LOSS-66ms
+cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-67ms
