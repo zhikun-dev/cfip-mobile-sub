@@ -1,1 +1,3 @@
-login.rockwellautomation.com:443#CF-MOBILE-0LOSS-53ms
+stores.staples.com:443#CF-MOBILE-0LOSS-74ms
+d.lma.de5.net:443#CF-MOBILE-0LOSS-59ms
+chinatelecom.youxuan.zmxf.cc.cd:443#CF-MOBILE-0LOSS-179ms
