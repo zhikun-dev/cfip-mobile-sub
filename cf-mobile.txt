@@ -1,3 +1,1 @@
-www.oopt.eu.cc:443#CF-MOBILE-0LOSS-67ms
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-70ms
-cf.1o.ee:443#CF-MOBILE-0LOSS-114ms
+cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-54ms
