@@ -1,2 +1,4 @@
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-81ms
-login.rockwellautomation.com:443#CF-MOBILE-0LOSS-50ms
+login.rockwellautomation.com:443#CF-MOBILE-0LOSS-61ms
+d.lma.de5.net:443#CF-MOBILE-0LOSS-59ms
+cf.1o.ee:443#CF-MOBILE-0LOSS-90ms
+ctsg.cfyx.aliyun.20237737.xyz:443#CF-MOBILE-0LOSS-66ms
