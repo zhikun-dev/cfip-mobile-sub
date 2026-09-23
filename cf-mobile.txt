@@ -1,6 +1,3 @@
-cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-68ms
-so.360832.xyz:443#CF-MOBILE-0LOSS-58ms
-f.lma.de5.net:443#CF-MOBILE-0LOSS-60ms
-cf.1o.ee:443#CF-MOBILE-0LOSS-113ms
-www.dentoncounty.gov:443#CF-MOBILE-0LOSS-96ms
-chinatelecom.youxuan.zmxf.cc.cd:443#CF-MOBILE-0LOSS-180ms
+cf.te.lezi.chat:443#CF-MOBILE-0LOSS-177ms
+cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-73ms
+chinatelecom.youxuan.zmxf.cc.cd:443#CF-MOBILE-0LOSS-179ms
