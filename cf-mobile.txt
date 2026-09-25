@@ -1,3 +1,2 @@
-cf.te.lezi.chat:443#CF-MOBILE-0LOSS-177ms
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-73ms
-chinatelecom.youxuan.zmxf.cc.cd:443#CF-MOBILE-0LOSS-179ms
+login.rockwellautomation.com:443#CF-MOBILE-0LOSS-59ms
+cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-61ms
