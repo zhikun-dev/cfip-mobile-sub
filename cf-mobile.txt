@@ -1,2 +1,3 @@
-login.rockwellautomation.com:443#CF-MOBILE-0LOSS-59ms
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-61ms
+cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-42ms
+login.rockwellautomation.com:443#CF-MOBILE-0LOSS-73ms
+cf.duun.eu.cc:443#CF-MOBILE-0LOSS-182ms
