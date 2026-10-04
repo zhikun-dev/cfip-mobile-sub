@@ -1,4 +1,1 @@
-cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-38ms
-cf.duun.eu.cc:443#CF-MOBILE-0LOSS-179ms
-chinatelecom.youxuan.zmxf.cc.cd:443#CF-MOBILE-0LOSS-181ms
-funko.com:443#CF-MOBILE-0LOSS-182ms
+login.rockwellautomation.com:443#CF-MOBILE-0LOSS-56ms
