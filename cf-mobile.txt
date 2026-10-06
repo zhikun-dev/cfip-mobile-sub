@@ -1,1 +1,2 @@
-login.rockwellautomation.com:443#CF-MOBILE-0LOSS-58ms
+cf-ip-node.vov.moe:443#CF-MOBILE-0LOSS-113ms
+login.rockwellautomation.com:443#CF-MOBILE-0LOSS-65ms
