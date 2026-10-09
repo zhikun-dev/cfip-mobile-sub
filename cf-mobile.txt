@@ -1,2 +1,1 @@
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-56ms
-cf-ip-node.vov.moe:443#CF-MOBILE-0LOSS-86ms
+cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-51ms
