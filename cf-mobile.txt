@@ -1,2 +1,1 @@
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-52ms
-cf-ip-node.vov.moe:443#CF-MOBILE-0LOSS-85ms
+stores.staples.com:443#CF-MOBILE-0LOSS-66ms
