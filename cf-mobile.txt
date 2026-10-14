@@ -1,1 +1,2 @@
-stores.staples.com:443#CF-MOBILE-0LOSS-66ms
+chinatelecom.youxuan.zmxf.cc.cd:443#CF-MOBILE-0LOSS-169ms
+www.crazygames.fr:443#CF-MOBILE-0LOSS-118ms
