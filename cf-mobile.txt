@@ -1,2 +1,2 @@
-chinatelecom.youxuan.zmxf.cc.cd:443#CF-MOBILE-0LOSS-169ms
-www.crazygames.fr:443#CF-MOBILE-0LOSS-118ms
+cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-40ms
+cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-46ms
