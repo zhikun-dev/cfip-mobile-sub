@@ -1,2 +1,1 @@
-cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-40ms
-cf-ip-site.vov.moe:443#CF-MOBILE-0LOSS-46ms
+stores.staples.com:443#CF-MOBILE-0LOSS-59ms
