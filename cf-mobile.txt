@@ -1,1 +1,1 @@
-stores.staples.com:443#CF-MOBILE-0LOSS-59ms
+cf.blogluo.eu.org:443#CF-MOBILE-0LOSS-49ms
